@@ -93,4 +93,4 @@ Simple chatbot with:
 
 **Built for Credex Internship Assignment**  
 Made by **Vibhav** 
-💻 [[Portfolio](https://vibhavsoftsell.netlify.app/)]
+💻 [[Portfolio](https://iamvibhav30.vercel.app/)]
